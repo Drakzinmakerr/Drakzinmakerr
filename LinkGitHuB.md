@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Drakzinmakerr
-- 👀 *********
-- 📷Instagram. https://instagram.com/kited_____77?igshid=MzNlNGNkZWQ4Mg==
-- 🔎canal.https://youtube.com/@badzinofc?si=nT2oV-V63qzNOlsn 
-- 🌐faço Script de blox fruit 
+COMO EJEITAR O poopGPT pelo o Android¿🔥
 
-<!---
-Drakzinmakerr/Drakzinmakerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Para injetar o MOD pelo navegador do Android, você só vai precisar abrir o ChatGPT pelo navegador KiwiBrowser, clicar nos 3 pontos do canto superior direito, descer tudo, clicar em "Abrir DevTools", clique no botão de abas e clique no "DevTools - chat.openai.com/?mod[...]", depois é só clicar na aba de Console, colar o código inteiro acima e apertar enter!
+
+criado pelo o davizinmaker 
